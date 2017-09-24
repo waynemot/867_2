@@ -8,7 +8,8 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({ SingleGraphAddSetterGetterTests.class,
 		SingleGraphConstructor.class, SingleGraphRemoveMethodsTests.class,
 		SingleGraphEventTests.class
+		, SingleGraph_TSL_Tests.class, HW4_GetterCoverExtendedTests.class
 		})
-public class AllSingleGraphTests {
+public class ExtendedSingleGraphTests {
 
 }
